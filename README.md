@@ -1,4 +1,4 @@
-# Parallel Tool Execution with Claude 4: Building Advanced Agentic Systems with Direct Bedrock Integration
+# Parallel Tool Execution with Claude 4: Building High Performing Agents with Bedrock Converse API & Event Loop
 
 *Unlocking the full potential of AI agents through concurrent tool execution and sophisticated event loops using direct Amazon Bedrock Converse API with Claude 4 models*
 
